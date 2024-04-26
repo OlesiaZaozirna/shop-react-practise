@@ -11,7 +11,7 @@ export const getCategories = createAsyncThunk(
       const categoryNames = [
         "Clothes",
         "Electronics",
-        "Books",
+        "Furniture",
         "Shoes",
         "Miscellaneous",
       ];
